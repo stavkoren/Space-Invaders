@@ -3,7 +3,7 @@ A version of the classic 80s game Space Invaders.
 
 ## List of classes and interfaces:
 ### Package : animations
-Animation - In charge of game-specific logic and stopping conditions
+Animation - In charge of game-specific logic and stopping conditions/
 AnimationRunner- Takes an Animation object and runs it.
 CountdownAnimation- CountdownAnimation from 3 to 1, which will show up at the beginning of each turn.
 HighScoresAnimation- HighScoresAnimation - animation represent highscore table.
