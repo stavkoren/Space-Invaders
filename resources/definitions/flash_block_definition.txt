@@ -1,0 +1,5 @@
+#block definitions
+bdef symbol:l width:60 height:60 hit_points:3 fill-3:color(RGB(229,244,65)) fill-2:color(RGB(244,139,65)) fill-1:color(RGB(232,244,65))
+
+#spacers definitions
+sdef symbol:- width:30
